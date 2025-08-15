@@ -51,5 +51,3 @@ services:
     build: .
     ports:
       - "3000:3000"
-Запустите:
-docker-compose up -d
